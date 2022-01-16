@@ -33,6 +33,8 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 ## Diverse help collected
 
+### Pipes
+
 [Pipes](https://angular.io/guide/pipes) 
 * [DatePipe](https://angular.io/api/common/DatePipe): {{ value_expression | date [ : format [ : timezone [ : locale ] ] ] }}
 * [UpperCasePipe](https://angular.io/api/common/UpperCasePipe): {{ value_expression | uppercase }}
