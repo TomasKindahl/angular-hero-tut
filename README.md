@@ -1,5 +1,6 @@
 # Angular hero tutorial
 Second angular hero tutorial repository. It is based on [Angular IO:s](https://angular.io/) [Tour of Heroes app and tutorial](https://angular.io/tutorial), and referring to chapters in that tutorial
+* [Section 0](https://angular.io/tutorial/toh-pt0) _Create a new project_
 * [Section 1](https://angular.io/tutorial/toh-pt1) _The hero editor_
 * [Section 2](https://angular.io/tutorial/toh-pt2) _Display a selection list_
 * [Section 3](https://angular.io/tutorial/toh-pt3) _Create a feature component_
