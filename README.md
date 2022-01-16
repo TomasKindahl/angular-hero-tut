@@ -38,7 +38,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 * [UpperCasePipe](https://angular.io/api/common/UpperCasePipe): {{ value_expression | uppercase }}
 * [LowerCasePipe](https://angular.io/api/common/LowerCasePipe): {{ value_expression | lowercase }}
 * [CurrencyPipe](https://angular.io/api/common/CurrencyPipe): {{ value_expression | currency [ : currencyCode [ : display [ : digitsInfo [ : locale ] ] ] ] }}
-* DecimalPipe: {{ value_expression | number [ : digitsInfo [ : locale ] ] }}
+* [DecimalPipe](https://angular.io/api/common/DecimalPipe): {{ value_expression | number [ : digitsInfo [ : locale ] ] }}
 * [PercentPipe](https://angular.io/api/common/PercentPipe): {{ value_expression | percent [ : digitsInfo [ : locale ] ] }}
 
 ## Further help
