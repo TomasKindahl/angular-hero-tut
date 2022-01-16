@@ -2,6 +2,7 @@
 Second angular hero tutorial repository. It is based on [Angular IO:s](https://angular.io/) [Tour of Heroes app and tutorial](https://angular.io/tutorial), and referring to chapters in that tutorial
 * [Section 0](https://angular.io/tutorial/toh-pt0) _Create a new project_
 * [Section 1](https://angular.io/tutorial/toh-pt1) _The hero editor_
+  * S1.5 - ref to [Pipes](https://angular.io/guide/pipes)
 * [Section 2](https://angular.io/tutorial/toh-pt2) _Display a selection list_
 * [Section 3](https://angular.io/tutorial/toh-pt3) _Create a feature component_
 * [Section 4](https://angular.io/tutorial/toh-pt4) _Add services_
@@ -29,6 +30,16 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 ## Running end-to-end tests
 
 Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+
+## Diverse help collected
+
+[Pipes](https://angular.io/guide/pipes) 
+* [DatePipe](https://angular.io/api/common/DatePipe): {{ value_expression | date [ : format [ : timezone [ : locale ] ] ] }}
+* [UpperCasePipe](https://angular.io/api/common/UpperCasePipe): {{ value_expression | uppercase }}
+* [LowerCasePipe](https://angular.io/api/common/LowerCasePipe): {{ value_expression | lowercase }}
+* [CurrencyPipe](https://angular.io/api/common/CurrencyPipe): {{ value_expression | currency [ : currencyCode [ : display [ : digitsInfo [ : locale ] ] ] ] }}
+* DecimalPipe: {{ value_expression | number [ : digitsInfo [ : locale ] ] }}
+* [PercentPipe](https://angular.io/api/common/PercentPipe): {{ value_expression | percent [ : digitsInfo [ : locale ] ] }}
 
 ## Further help
 
